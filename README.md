@@ -27,6 +27,15 @@ Local Bites lets users find and add small, informal food vendors (street carts, 
 - **Location:** Android FusedLocationProvider / Location Services
 - **Image Handling:** Coil, CameraX-based photo capture
 
+- ## Screenshots
+
+<p float="left">
+  <img src="screenshots/Home%20page.jpeg" width="200" />
+  <img src="screenshots/Add%20Stall%20Screen.jpeg" width="200" />
+  <img src="screenshots/Chatbot.jpeg" width="200" />
+  <img src="screenshots/About.jpeg" width="200" />
+</p>
+
 ## Purpose
 
 This project was built to demonstrate a full-featured, community-driven Android application — covering CRUD operations, real-time location services, map integration, and local data persistence — as part of an academic portfolio project.
