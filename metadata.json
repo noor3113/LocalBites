@@ -1,0 +1,6 @@
+{
+  "name": "Local Bites",
+  "description": "A hyperlocal, community-driven street food and vendor discovery app created by Noor ul Huda.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

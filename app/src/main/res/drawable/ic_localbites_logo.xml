@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="48dp"
+    android:height="48dp"
+    android:viewportWidth="48"
+    android:viewportHeight="48">
+    <!-- Rounded Badge Base in charcoal with amber border -->
+    <path
+        android:fillColor="#241E1B"
+        android:pathData="M8,4h32a6,6 0 0 1 6,6v28a6,6 0 0 1 -6,6h-32a6,6 0 0 1 -6,-6v-28a6,6 0 0 1 6,-6z" />
+    <path
+        android:strokeColor="#E8770E"
+        android:strokeWidth="1.5"
+        android:fillColor="#00000000"
+        android:pathData="M8,4h32a6,6 0 0 1 6,6v28a6,6 0 0 1 -6,6h-32a6,6 0 0 1 -6,-6v-28a6,6 0 0 1 6,-6z" />
+
+    <!-- Hot Steam Curls -->
+    <path
+        android:strokeColor="#F59E0B"
+        android:strokeWidth="1.6"
+        android:strokeLineCap="round"
+        android:fillColor="#00000000"
+        android:pathData="M18,15 C16.5,13 19.5,11.5 18,9.5" />
+    <path
+        android:strokeColor="#E8770E"
+        android:strokeWidth="1.8"
+        android:strokeLineCap="round"
+        android:fillColor="#00000000"
+        android:pathData="M24,15.5 C22.5,13 25.5,11.5 24,9" />
+    <path
+        android:strokeColor="#F59E0B"
+        android:strokeWidth="1.6"
+        android:strokeLineCap="round"
+        android:fillColor="#00000000"
+        android:pathData="M30,15 C28.5,13 31.5,11.5 30,9.5" />
+
+    <!-- Cart Canopy -->
+    <path
+        android:fillColor="#E8770E"
+        android:pathData="M13,18 L35,18 L32.5,21 L15.5,21 Z" />
+
+    <!-- Canopy Support Poles -->
+    <path
+        android:strokeColor="#E8770E"
+        android:strokeWidth="1.4"
+        android:strokeLineCap="round"
+        android:fillColor="#00000000"
+        android:pathData="M16.5,21 L16.5,26 M31.5,21 L31.5,26" />
+
+    <!-- Cart Counter Body -->
+    <path
+        android:fillColor="#E8770E"
+        android:pathData="M12.5,26 h23 a2,2 0 0 1 2,2 v5 a2,2 0 0 1 -2,2 h-23 a2,2 0 0 1 -2,-2 v-5 a2,2 0 0 1 2,-2 z" />
+
+    <!-- Serving Bowl / Pot on Cart -->
+    <path
+        android:fillColor="#FFF1E6"
+        android:pathData="M20.5,23.5 h7 a2.5,2.5 0 0 1 2.5,2.5 h-12 a2.5,2.5 0 0 1 2.5,-2.5 z" />
+
+    <!-- Wheels -->
+    <path
+        android:fillColor="#241E1B"
+        android:strokeColor="#F59E0B"
+        android:strokeWidth="1.5"
+        android:pathData="M17.5,39 a3.5,3.5 0 1 0 0.1,0 z" />
+    <path
+        android:fillColor="#E8770E"
+        android:pathData="M17.5,39 a1.5,1.5 0 1 0 0.1,0 z" />
+
+    <path
+        android:fillColor="#241E1B"
+        android:strokeColor="#F59E0B"
+        android:strokeWidth="1.5"
+        android:pathData="M30.5,39 a3.5,3.5 0 1 0 0.1,0 z" />
+    <path
+        android:fillColor="#E8770E"
+        android:pathData="M30.5,39 a1.5,1.5 0 1 0 0.1,0 z" />
+
+    <!-- Handlebar -->
+    <path
+        android:strokeColor="#E8770E"
+        android:strokeWidth="1.5"
+        android:strokeLineCap="round"
+        android:fillColor="#00000000"
+        android:pathData="M10.5,28 L8.5,27" />
+</vector>

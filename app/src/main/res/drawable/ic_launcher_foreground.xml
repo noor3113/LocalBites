@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Rounded Badge Base -->
+    <path
+        android:fillColor="#241E1B"
+        android:pathData="M30,26h48a12,12 0 0 1 12,12v36a12,12 0 0 1 -12,12h-48a12,12 0 0 1 -12,-12v-36a12,12 0 0 1 12,-12z" />
+    <path
+        android:strokeColor="#E8770E"
+        android:strokeWidth="2.5"
+        android:fillColor="#00000000"
+        android:pathData="M30,26h48a12,12 0 0 1 12,12v36a12,12 0 0 1 -12,12h-48a12,12 0 0 1 -12,-12v-36a12,12 0 0 1 12,-12z" />
+
+    <!-- Hot Steam Curls above cart (amber accent) -->
+    <path
+        android:strokeColor="#F59E0B"
+        android:strokeWidth="2.2"
+        android:strokeLineCap="round"
+        android:fillColor="#00000000"
+        android:pathData="M46,38 C44,35 48,33 46,30" />
+    <path
+        android:strokeColor="#E8770E"
+        android:strokeWidth="2.5"
+        android:strokeLineCap="round"
+        android:fillColor="#00000000"
+        android:pathData="M54,39 C52,35 56,33 54,29" />
+    <path
+        android:strokeColor="#F59E0B"
+        android:strokeWidth="2.2"
+        android:strokeLineCap="round"
+        android:fillColor="#00000000"
+        android:pathData="M62,38 C60,35 64,33 62,30" />
+
+    <!-- Cart / Thela Canopy Roof -->
+    <path
+        android:fillColor="#E8770E"
+        android:pathData="M37,42 L71,42 L67,46 L41,46 Z" />
+
+    <!-- Canopy Support Poles -->
+    <path
+        android:strokeColor="#E8770E"
+        android:strokeWidth="1.8"
+        android:strokeLineCap="round"
+        android:fillColor="#00000000"
+        android:pathData="M42,46 L42,54 M66,46 L66,54" />
+
+    <!-- Cart Body / Counter Table -->
+    <path
+        android:fillColor="#E8770E"
+        android:pathData="M36,54 h36 a3,3 0 0 1 3,3 v7 a3,3 0 0 1 -3,3 h-36 a3,3 0 0 1 -3,-3 v-7 a3,3 0 0 1 3,-3 z" />
+
+    <!-- Serving Bowl / Pot on Cart -->
+    <path
+        android:fillColor="#FFF1E6"
+        android:pathData="M49,50 h10 a4,4 0 0 1 4,4 h-18 a4,4 0 0 1 4,-4 z" />
+
+    <!-- Cart Wheels -->
+    <!-- Left Wheel -->
+    <path
+        android:fillColor="#241E1B"
+        android:strokeColor="#F59E0B"
+        android:strokeWidth="2"
+        android:pathData="M44,72 a5,5 0 1 0 0.1,0 z" />
+    <path
+        android:fillColor="#E8770E"
+        android:pathData="M44,72 a2,2 0 1 0 0.1,0 z" />
+
+    <!-- Right Wheel -->
+    <path
+        android:fillColor="#241E1B"
+        android:strokeColor="#F59E0B"
+        android:strokeWidth="2"
+        android:pathData="M64,72 a5,5 0 1 0 0.1,0 z" />
+    <path
+        android:fillColor="#E8770E"
+        android:pathData="M64,72 a2,2 0 1 0 0.1,0 z" />
+
+    <!-- Handlebar for pushing the thela -->
+    <path
+        android:strokeColor="#E8770E"
+        android:strokeWidth="2"
+        android:strokeLineCap="round"
+        android:fillColor="#00000000"
+        android:pathData="M33,57 L30,55" />
+</vector>
