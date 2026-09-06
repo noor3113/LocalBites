@@ -29,12 +29,10 @@ Local Bites lets users find and add small, informal food vendors (street carts, 
 
 - ## Screenshots
 
-<p float="left">
-  <img src="screenshots/Home%20page.jpeg" width="200" />
-  <img src="screenshots/Add%20Stall%20Screen.jpeg" width="200" />
-  <img src="screenshots/Chatbot.jpeg" width="200" />
-  <img src="screenshots/About.jpeg" width="200" />
-</p>
+<img src="Home%20page.jpeg" width="200" />
+<img src="Add%20Stall%20Screen.jpeg" width="200" />
+<img src="Chatbot.jpeg" width="200" />
+<img src="About.jpeg" width="200" />
 
 ## Purpose
 
